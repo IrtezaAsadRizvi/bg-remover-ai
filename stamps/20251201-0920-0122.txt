@@ -1,0 +1,4 @@
+serial: 122
+day: 2025-12-01
+timestamp: 2025-12-01T09:20:00+06:00
+message_prefix: lab(history)
