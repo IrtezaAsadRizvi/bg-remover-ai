@@ -1,6 +1,6 @@
 # 🖼️ Background Remover (Browser‑Only)
 
-A fast, private, **serverless background remover** that runs 100% in the browser. No uploads, no accounts, no tracking — just drop an image and download a transparent PNG. ✨
+A fast, private, **serverless background remover** that runs 100% in the browser. No uploads, no accounts, no tracking - just drop an image and download a transparent PNG. ✨
 
 Built with **Vite + React + TypeScript + Tailwind CSS** and powered by **ONNX Runtime Web** running in a **Web Worker** for smooth UI performance.
 
@@ -15,9 +15,9 @@ https://bgremover-ai.web.app/
 ## ✅ Highlights
 
 - **🧠 AI background removal in the browser** (ONNX models)
-- **🔒 Private & secure** — images never leave your device
-- **⚡ Fast** — worker‑based inference keeps the UI responsive
-- **💸 Free** — no login, no subscriptions, no limits
+- **🔒 Private & secure** - images never leave your device
+- **⚡ Fast** - worker‑based inference keeps the UI responsive
+- **💸 Free** - no login, no subscriptions, no limits
 - **🧩 Two models**: U^2‑Net Human Seg & ISNet General
 - **🎛️ Tunable controls**: input size, threshold, feather
 - **📥 Export**: instant transparent PNG download
@@ -71,7 +71,7 @@ This tool is **fully serverless**:
 ✅ No tracking
 ✅ No data storage
 
-Everything runs locally in your browser — your images stay private.
+Everything runs locally in your browser - your images stay private.
 
 ---
 
@@ -109,7 +109,7 @@ public/ort/ort-wasm-simd-threaded.asyncify.wasm
 ## ❓ FAQ
 
 **Q: Is this free?**
-Yes — completely free and runs locally in your browser.
+Yes - completely free and runs locally in your browser.
 
 **Q: Do my images upload to a server?**
 No. All processing happens on your device.
