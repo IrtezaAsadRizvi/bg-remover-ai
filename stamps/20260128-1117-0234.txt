@@ -1,0 +1,4 @@
+serial: 234
+day: 2026-01-28
+timestamp: 2026-01-28T11:17:00+06:00
+message_prefix: lab(history)
