@@ -115,4 +115,3 @@ Try U^2-Net Human for people. Use ISNet General for objects and products.
 ## Credits
 
 Models are ONNX-compatible segmentation networks. You provide the ONNX files; the app runs them locally with ONNX Runtime Web.
-<!-- cron-noop:20260415211939 -->
